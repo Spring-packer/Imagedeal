@@ -18,7 +18,7 @@ public class ReadFile {
         try {
             File file = new File(filePath);
             if (!file.isDirectory() && file.getName().contains(".jpg")) {
-                System.out.println("当前路径是一个文件，而非目录");
+//                System.out.println("当前路径是一个文件，而非目录");
 //                System.out.println("path=" + file.getPath());
 //                System.out.println("absolutepath=" + file.getAbsolutePath());
 //                System.out.println("name=" + file.getName());

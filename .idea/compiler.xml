@@ -9,5 +9,8 @@
         <module name="day" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="day" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
