@@ -6,18 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @ProjectName: Imagedeal
- * @Package: com.homecredit.research
- * @ClassName: ThreadDemo
- * @Description: 类作用描述
- * @Author: 作者：龙飞
- * @CreateDate: 2019/7/8 21:01
- * @UpdateUser: 更新者：龙飞
- * @UpdateDate: 2019/7/8 21:01
- * @UpdateRemark: 更新说明
- * @Version: 1.0
- */
+
 public class ThreadDemo {
     public static void main(String[] args) {
 //        long start = System.currentTimeMillis();
