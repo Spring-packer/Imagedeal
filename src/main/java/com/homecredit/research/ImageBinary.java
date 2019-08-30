@@ -1,4 +1,4 @@
-package com.homecredit.research;
+
 
 
 import sun.misc.BASE64Decoder;
