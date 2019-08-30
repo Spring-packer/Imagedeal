@@ -1,4 +1,4 @@
-package com.homecredit.research;
+
 
 import java.awt.image.BufferedImage;
 import java.io.File;
